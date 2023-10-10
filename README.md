@@ -6,8 +6,8 @@ CRUD Functionalities.
 State Management With Context API.
 Improved Performance With React Memo.
 
-# React + TypeScript + Vite
-The project was bootstraped with Vite.
+# Stack
+The project was bootstraped with Vite and built with React + TypeScript.
 
 # Node Packages Install Script
 npm install
